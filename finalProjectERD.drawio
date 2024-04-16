@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-16T15:11:57.504Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="aCNkmsPRo88N1ZXL-mYr" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-16T15:13:38.688Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="nsMCis281jDWqxvn12t6" version="22.1.17" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="819" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry x="550" y="340" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HE-kYK1hv0PF18hy6iHT-7" value="d" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="410" y="510" width="30" height="30" as="geometry" />
+          <mxGeometry x="410" y="500" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HE-kYK1hv0PF18hy6iHT-8" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HE-kYK1hv0PF18hy6iHT-1" target="HE-kYK1hv0PF18hy6iHT-7">
           <mxGeometry relative="1" as="geometry">
@@ -25,7 +25,7 @@
             <mxPoint x="380" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HE-kYK1hv0PF18hy6iHT-9" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="HE-kYK1hv0PF18hy6iHT-9" value="" style="endArrow=none;html=1;rounded=0;entryX=0.157;entryY=0.014;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" target="HE-kYK1hv0PF18hy6iHT-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="440" as="sourcePoint" />
             <mxPoint x="420" y="510" as="targetPoint" />
@@ -47,6 +47,34 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="530" y="440" as="sourcePoint" />
             <mxPoint x="530" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HE-kYK1hv0PF18hy6iHT-15" value="Customer" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="300" y="580" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HE-kYK1hv0PF18hy6iHT-16" value="Bar" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="440" y="580" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HE-kYK1hv0PF18hy6iHT-18" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="HE-kYK1hv0PF18hy6iHT-15" target="HE-kYK1hv0PF18hy6iHT-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="550" as="sourcePoint" />
+            <mxPoint x="440" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HE-kYK1hv0PF18hy6iHT-21" value="&#39;C&#39;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HE-kYK1hv0PF18hy6iHT-18">
+          <mxGeometry x="-0.0526" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HE-kYK1hv0PF18hy6iHT-19" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HE-kYK1hv0PF18hy6iHT-7" target="HE-kYK1hv0PF18hy6iHT-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="465" y="480" as="sourcePoint" />
+            <mxPoint x="465" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HE-kYK1hv0PF18hy6iHT-20" value="&#39;B&#39;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HE-kYK1hv0PF18hy6iHT-19">
+          <mxGeometry x="-0.162" y="1" relative="1" as="geometry">
+            <mxPoint y="2" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
