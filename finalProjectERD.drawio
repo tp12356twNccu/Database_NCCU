@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-16T15:18:21.072Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="8k7Z1ycv26wmfwNAFG5h" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-16T15:22:32.114Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="aJoKr16_j53eZ5vhyBAQ" version="22.1.17" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="819" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -44,10 +44,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HE-kYK1hv0PF18hy6iHT-15" value="Customer" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="300" y="580" width="100" height="40" as="geometry" />
+          <mxGeometry x="230" y="550" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HE-kYK1hv0PF18hy6iHT-16" value="Bar" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="440" y="580" width="100" height="40" as="geometry" />
+          <mxGeometry x="490" y="530" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HE-kYK1hv0PF18hy6iHT-18" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="HE-kYK1hv0PF18hy6iHT-15" target="HE-kYK1hv0PF18hy6iHT-7">
           <mxGeometry relative="1" as="geometry">
@@ -72,7 +72,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HE-kYK1hv0PF18hy6iHT-24" value="Activity" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="370" y="730" width="100" height="40" as="geometry" />
+          <mxGeometry x="300" y="780" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HE-kYK1hv0PF18hy6iHT-26" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HE-kYK1hv0PF18hy6iHT-15" target="HE-kYK1hv0PF18hy6iHT-28">
           <mxGeometry relative="1" as="geometry">
@@ -115,6 +115,21 @@
         </mxCell>
         <mxCell id="HE-kYK1hv0PF18hy6iHT-35" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="HE-kYK1hv0PF18hy6iHT-34">
           <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HE-kYK1hv0PF18hy6iHT-36" value="Cocktail" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="660" y="640" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HE-kYK1hv0PF18hy6iHT-39" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="HE-kYK1hv0PF18hy6iHT-38" target="HE-kYK1hv0PF18hy6iHT-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HE-kYK1hv0PF18hy6iHT-38" value="Cocktail_ID" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="690" y="530" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HE-kYK1hv0PF18hy6iHT-45" value="Ingredients" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="810" y="560" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HE-kYK1hv0PF18hy6iHT-51" value="Flavours" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="820" y="610" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
