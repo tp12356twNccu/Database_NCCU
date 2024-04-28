@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-28T12:35:01.215Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="u7ocQEU6_R3yRpUGDQpj" version="24.3.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-28T12:35:10.486Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="LmbNq-H4SwiqCUzdPbuL" version="24.3.1" type="github" pages="2">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="5591" dy="407" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -239,7 +239,7 @@
         <mxCell id="qkrvtsVJXHd_GXAaN-gD-35" value="Rateing" style="ellipse;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="-2630" y="400" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qkrvtsVJXHd_GXAaN-gD-41" value="Preference" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=default;" parent="1" vertex="1">
+        <mxCell id="qkrvtsVJXHd_GXAaN-gD-41" value="Prefer" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="-3030" y="560" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qkrvtsVJXHd_GXAaN-gD-42" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=oval;endFill=0;startArrow=ERone;startFill=0;" parent="1" source="HE-kYK1hv0PF18hy6iHT-15" target="qkrvtsVJXHd_GXAaN-gD-48" edge="1">
