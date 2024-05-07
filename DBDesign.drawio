@@ -1,9 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2024-05-07T02:48:56.064Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" version="24.3.1" etag="NviRnUw56L7MXWlDLgac" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-07T02:53:30.668Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="sTmf69lj9zNCFRMdK947" version="24.3.1" type="github">
   <diagram name="第1頁" id="yRPHBxbGYmg5BFlF-QgD">
-    <mxGraphModel>
+    <mxGraphModel dx="666" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="a4UeTrgCK479kTS_yBiC-4" value="User" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="150" width="610" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="a4UeTrgCK479kTS_yBiC-5" value="Lane 1" style="swimlane;startSize=20;html=1;" vertex="1" parent="a4UeTrgCK479kTS_yBiC-4">
+          <mxGeometry y="20" width="120" height="70" as="geometry">
+            <mxRectangle y="20" width="40" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a4UeTrgCK479kTS_yBiC-10" value="&lt;u&gt;User_ID&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="a4UeTrgCK479kTS_yBiC-5">
+          <mxGeometry x="25" y="28" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a4UeTrgCK479kTS_yBiC-6" value="Lane 2" style="swimlane;startSize=20;html=1;" vertex="1" parent="a4UeTrgCK479kTS_yBiC-4">
+          <mxGeometry x="120" y="20" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="a4UeTrgCK479kTS_yBiC-7" value="Lane 3" style="swimlane;startSize=20;html=1;" vertex="1" parent="a4UeTrgCK479kTS_yBiC-4">
+          <mxGeometry x="240" y="20" width="163" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="a4UeTrgCK479kTS_yBiC-8" value="Lane 3" style="swimlane;startSize=20;html=1;" vertex="1" parent="a4UeTrgCK479kTS_yBiC-4">
+          <mxGeometry x="403" y="20" width="207" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
