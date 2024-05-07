@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-05-07T02:53:30.668Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="sTmf69lj9zNCFRMdK947" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-07T02:54:04.636Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="Huwwua6A_HS6-ET3g-pi" version="24.3.1" type="github">
   <diagram name="第1頁" id="yRPHBxbGYmg5BFlF-QgD">
-    <mxGraphModel dx="666" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="388" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="a4UeTrgCK479kTS_yBiC-4" value="User" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="150" width="610" height="90" as="geometry" />
+          <mxGeometry x="40" y="340" width="610" height="90" as="geometry" />
         </mxCell>
         <mxCell id="a4UeTrgCK479kTS_yBiC-5" value="Lane 1" style="swimlane;startSize=20;html=1;" vertex="1" parent="a4UeTrgCK479kTS_yBiC-4">
           <mxGeometry y="20" width="120" height="70" as="geometry">
@@ -23,6 +23,15 @@
         </mxCell>
         <mxCell id="a4UeTrgCK479kTS_yBiC-8" value="Lane 3" style="swimlane;startSize=20;html=1;" vertex="1" parent="a4UeTrgCK479kTS_yBiC-4">
           <mxGeometry x="403" y="20" width="207" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="a4UeTrgCK479kTS_yBiC-11" value="Name" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="388" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a4UeTrgCK479kTS_yBiC-12" value="Password" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="388" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a4UeTrgCK479kTS_yBiC-13" value="Type" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="515" y="388" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
