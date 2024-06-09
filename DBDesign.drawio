@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-09T03:44:53.500Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="0NJ0nR-ECTs8mN_v2Ilg" version="24.5.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-06-09T03:45:55.520Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="IV4zodXXRIfTiinJ7wT4" version="24.5.2" type="github" pages="2">
   <diagram name="第1頁" id="yRPHBxbGYmg5BFlF-QgD">
     <mxGraphModel dx="6093" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -400,7 +400,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="final" id="S2Ds52pF-hbwWXtwHUno">
-    <mxGraphModel dx="1046" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="856" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="ZfeTeswVsdX-3xa1Pwpb-0" />
         <mxCell id="ZfeTeswVsdX-3xa1Pwpb-1" parent="ZfeTeswVsdX-3xa1Pwpb-0" />
@@ -511,12 +511,12 @@
             <mxRectangle width="117" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZfeTeswVsdX-3xa1Pwpb-29" value="&amp;nbsp;Costomer_Name" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="ZfeTeswVsdX-3xa1Pwpb-27" vertex="1">
+        <mxCell id="ZfeTeswVsdX-3xa1Pwpb-29" value="&amp;nbsp;Costomer_ID" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="ZfeTeswVsdX-3xa1Pwpb-27" vertex="1">
           <mxGeometry x="117" width="199" height="40" as="geometry">
             <mxRectangle width="199" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZfeTeswVsdX-3xa1Pwpb-30" value="Bar_Name" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="ZfeTeswVsdX-3xa1Pwpb-27" vertex="1">
+        <mxCell id="ZfeTeswVsdX-3xa1Pwpb-30" value="Bar_ID" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="ZfeTeswVsdX-3xa1Pwpb-27" vertex="1">
           <mxGeometry x="316" width="84" height="40" as="geometry">
             <mxRectangle width="84" height="40" as="alternateBounds" />
           </mxGeometry>
