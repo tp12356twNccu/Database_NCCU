@@ -6,3 +6,14 @@ We have an entity "User", which will be devided into two
 types of User "Customer" and "Bar".
 
 Customer havs these attributes, which will be be used in the auto recommendation function.
+
+Here the "Activity" means the activities a bar will hold, such as group watching when there's a major sport game
+
+Now at the bar side, these bar attributes are for filtering.
+"Menu" and "Sells" are for sales analysis.
+
+And to the middle part. Customers are able to give "Review"  to a Bar
+The review given by the Customer is stored in comment and Bars are able to 
+reply to these comments, whose content will be stored in reply.
+
+And at last, Customers are able to create personal like list
