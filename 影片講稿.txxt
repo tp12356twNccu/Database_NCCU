@@ -17,3 +17,8 @@ The review given by the Customer is stored in comment and Bars are able to
 reply to these comments, whose content will be stored in reply.
 
 And at last, Customers are able to create personal like list
+
+
+Now to the actual Database design.
+It is basicly the ERD transformed into a feasable database design.
+ 
