@@ -19,8 +19,16 @@ Our system provide a sales analysis function for the bars.
 A bar will also feature some activities, for example darts, which is used in the auto recommendation function.
 
 And to the middle part. Customers are able to give "Review"  to a Bar
+A Review is consisted of 3 components, "Rating", "Comment" and "Reply".
+Rating has a lowest value of 1 and the highest level of 5.
+Comment is the review given by the Customer to the Bar.
+The Reply attribute is the reply the bar gives to the review. 
+
+
+/*
 The review given by the Customer is stored in comment and Bars are able to 
 reply to these comments, whose content will be stored in reply.
+*/
 
 And at last, Customers are able to create personal like list, which consists a list of bars.
 
@@ -28,3 +36,5 @@ And at last, Customers are able to create personal like list, which consists a l
 Now to the actual Database design.
 It is basicly the ERD transformed into a feasable database design.
 Although there are some minor changes for the convinience in actual implementation.
+We have transformed the multivalued attributes into seperate columns.
+But the  
