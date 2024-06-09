@@ -6,19 +6,23 @@ We have an entity "User", which will be devided into two
 types of User "Customer" and "Bar".
 
 Customer havs these attributes, which will be be used in the auto recommendation function.
+Bmax and Bmin mean the budget range of the customer. With Bmax being the highest amount and Bmin being the smallest.
+
 
 Here the "Activity" means the activities a bar will hold, such as group watching when there's a major sport game
 
-Now at the bar side, these bar attributes are for filtering.
+Now at the bar side, these bar attributes are for the filtering function.
+A example of the "Style" attribute will be "sport bar", "English Pub", or "Speakeasy"  
 "Menu" and "Sells" are for sales analysis.
+Our system provide a sales analysis function for the bars.
 
 And to the middle part. Customers are able to give "Review"  to a Bar
 The review given by the Customer is stored in comment and Bars are able to 
 reply to these comments, whose content will be stored in reply.
 
-And at last, Customers are able to create personal like list
+And at last, Customers are able to create personal like list, which consists a list of bars.
 
 
 Now to the actual Database design.
 It is basicly the ERD transformed into a feasable database design.
- 
+Although there are some minor changes for the convinience in actual implementation.
