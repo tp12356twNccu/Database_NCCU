@@ -1,0 +1,8 @@
+Now i'm going to talk about our database design
+
+First, this is our ER diagram
+
+We have an entity "User", which will be devided into two
+types of User "Customer" and "Bar".
+
+Customer havs these attributes, which will be be used in the auto recommendation function.
