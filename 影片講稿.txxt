@@ -12,9 +12,11 @@ Bmax and Bmin mean the budget range of the customer. With Bmax being the highest
 Here the "Activity" means the activities a bar will hold, such as group watching when there's a major sport game
 
 Now at the bar side, these bar attributes are for the filtering function.
-A example of the "Style" attribute will be "sport bar", "English Pub", or "Speakeasy"  
+A example of the "Style" attribute will be "sport bar", "English Pub", or "Speakeasy".
+"District" means which district of a city the bar is located, for example "Muzha" or "Xinyi".  
 "Menu" and "Sells" are for sales analysis.
 Our system provide a sales analysis function for the bars.
+A bar will also feature some activities, for example darts, which is used in the auto recommendation function.
 
 And to the middle part. Customers are able to give "Review"  to a Bar
 The review given by the Customer is stored in comment and Bars are able to 
