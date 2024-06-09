@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-09T03:40:40.963Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="CHMEzIjGQyPcHBCKqdlY" version="24.5.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-06-09T03:41:26.990Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="KyfB0oQVhja1XeSnAdro" version="24.5.2" type="github" pages="2">
   <diagram name="第1頁" id="yRPHBxbGYmg5BFlF-QgD">
     <mxGraphModel dx="6093" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -400,7 +400,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="final" id="S2Ds52pF-hbwWXtwHUno">
-    <mxGraphModel dx="1130" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1284" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="ZfeTeswVsdX-3xa1Pwpb-0" />
         <mxCell id="ZfeTeswVsdX-3xa1Pwpb-1" parent="ZfeTeswVsdX-3xa1Pwpb-0" />
@@ -667,8 +667,8 @@
         </mxCell>
         <mxCell id="ZfeTeswVsdX-3xa1Pwpb-65" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="ZfeTeswVsdX-3xa1Pwpb-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2565.81" y="709.57" as="sourcePoint" />
-            <mxPoint x="2615.81" y="709.57" as="targetPoint" />
+            <mxPoint x="2550" y="750" as="sourcePoint" />
+            <mxPoint x="2600" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZfeTeswVsdX-3xa1Pwpb-66" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;" parent="ZfeTeswVsdX-3xa1Pwpb-1" vertex="1">
@@ -682,7 +682,7 @@
             <mxRectangle width="85" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZfeTeswVsdX-3xa1Pwpb-69" value="BarName" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="ZfeTeswVsdX-3xa1Pwpb-67" vertex="1">
+        <mxCell id="ZfeTeswVsdX-3xa1Pwpb-69" value="Bar_ID" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="ZfeTeswVsdX-3xa1Pwpb-67" vertex="1">
           <mxGeometry x="85" width="85" height="40" as="geometry">
             <mxRectangle width="85" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -710,7 +710,7 @@
         <mxCell id="ZfeTeswVsdX-3xa1Pwpb-74" value="Cus_Order" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=left;" parent="ZfeTeswVsdX-3xa1Pwpb-1" vertex="1">
           <mxGeometry x="2445.8099999999995" y="700" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ZfeTeswVsdX-3xa1Pwpb-75" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;exitX=0.363;exitY=1.093;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.088;entryY=0.036;entryDx=0;entryDy=0;entryPerimeter=0;" parent="ZfeTeswVsdX-3xa1Pwpb-1" source="ZfeTeswVsdX-3xa1Pwpb-67" target="ZfeTeswVsdX-3xa1Pwpb-45" edge="1">
+        <mxCell id="ZfeTeswVsdX-3xa1Pwpb-75" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;exitX=0.253;exitY=0.98;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.076;entryY=-0.061;entryDx=0;entryDy=0;entryPerimeter=0;" parent="ZfeTeswVsdX-3xa1Pwpb-1" source="ZfeTeswVsdX-3xa1Pwpb-67" target="ZfeTeswVsdX-3xa1Pwpb-45" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2675.81" y="970" as="sourcePoint" />
             <mxPoint x="2725.81" y="920" as="targetPoint" />
